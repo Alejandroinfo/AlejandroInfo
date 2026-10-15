@@ -1,6 +1,6 @@
 ## Hi, I'm Alejandro 👋
 
-I'm a data scientist and economist with an **M.S. in Computational Analysis and Public Policy from the University of Chicago**. I work on machine learning, spatial analysis and data pipelines for public policy, and I have taught economics and econometrics for 9+ years.
+I'm a data scientist and economist with an **M.S. in Computational Analysis and Public Policy from the University of Chicago**. I work on machine learning, spatial analysis and data pipelines for public policy, and I have taught economics and econometrics for 8+ years.
 
 🌐 **Portfolio:** [alejandroinfo.github.io](https://alejandroinfo.github.io/)  
 💼 **LinkedIn:** [linkedin.com/in/alejandroarmasbr](https://www.linkedin.com/in/alejandroarmasbr/)  
